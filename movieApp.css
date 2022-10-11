@@ -1,0 +1,44 @@
+.movie-msg {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+div {
+  margin-top: 2em;
+}
+
+.error {
+  color: red;
+  font-weight: 20px;
+}
+
+.buttonx {
+  margin-left: 2em;
+  font-weight: bold;
+}
+
+.remove-click {
+  margin-left: 2em;
+  padding: 0em 0.75em;
+  font-weight: bold;
+}
+
+form {
+  font-family: sans-serif, Geneva;
+  font-size: 20px;
+}
+
+.movie-container {
+  text-align: center;
+}
+.movie-app {
+  text-align: center;
+  font-weight: bold;
+}
+
+hr {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
